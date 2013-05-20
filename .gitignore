@@ -1,0 +1,29 @@
+# SublimeText project files
+/*.sublime-project
+*.sublime-workspace
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# OSX
+.DS_Store
+
+# Windows image file caches
+Thumbs.db 
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
